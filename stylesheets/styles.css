@@ -57,7 +57,7 @@
 body {
   background-image: url("../images/images.jpg");
   background-repeat: no-repeat;
-  background-position: right top;
+  background-position: left middle;
   background-attachment: fixed;
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
