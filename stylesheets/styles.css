@@ -55,7 +55,7 @@
 }
 
 body {
-  background-image: url("../images/images.jpg");
+  background-color: #89c3eb;
   background-repeat: no-repeat;
   background-position: left middle;
   background-attachment: fixed;
